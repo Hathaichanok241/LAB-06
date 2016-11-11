@@ -54,7 +54,7 @@
 
 4.2).	รัน โปรแกรม โดยป้อนตัวเลขใดๆ และบันทึกผลที่ได้
 
-<![](https://github.com/Hathaichanok241/LAB-06/blob/master/imgs/6.4.JPG?raw=true)
+![](https://github.com/Hathaichanok241/LAB-06/blob/master/imgs/6.4.JPG?raw=true)
 
 ###คำถาม 6.3 ถ้าเราป้อนตัวอักษรลงไปแทนที่ตัวเลข จะเกิดอะไรขึ้น มีวิธีการป้องกันหรือแก้ไขอย่างไร
   
@@ -67,20 +67,11 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic4.png)
 
   5.2).	รัน โปรแกรม โดยป้อนตัวเลขใดๆ และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+  
+![](https://github.com/Hathaichanok241/LAB-06/blob/master/imgs/6.5.JPG?raw=true)
 
 ###คำถาม 6.4 ถ้าเราป้อนตัวอักษรลงไปแทนที่ตัวเลข จะเกิดอะไรขึ้น เหมือนหรือต่างจากโปรแกรมก่อนหน้านี้อย่างไร
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+ ตอบ  จะไม่เหมือนกับโปรแกรมก่อนหน้านี้ที่ โปรแกรมจะไม่มีอาการ  hang แต่จะมีการแจ้งว่า  error ขึ้นในโปรแกรม 
 
 ##แบบฝึกหัด ให้เขียน code ในการรับค่าอินพุตต่อไปนี้และแสดงออกหน้าจอให้ถูกต้อง
 ``` Name :  (ป้อนชื่อของนักศึกษา). ```
@@ -90,3 +81,8 @@
 ``` ID : (ป้อนรหัสนักศึกษา).```
 
 ``` GPA : (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก).```
+
+ตอบ  
+![](https://github.com/Hathaichanok241/LAB-06/blob/master/imgs/6.6.JPG?raw=true)
+
+![](https://github.com/Hathaichanok241/LAB-06/blob/master/imgs/6.7.JPG?raw=true)
